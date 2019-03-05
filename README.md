@@ -26,4 +26,4 @@ docker run --rm \
   -v $(pwd)/credentials:/root/.aws/config
   -e AWS_CONFIG_FILE=/root/.aws/config \
   habitissimo/aws-cli <command>
-``
+```
