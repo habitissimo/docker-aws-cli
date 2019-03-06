@@ -1,4 +1,9 @@
 # docker-aws-cli
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/habitissimo/aws-cli.svg)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/habitissimo/aws-cli.svg)
+![Docker Pulls](https://img.shields.io/docker/pulls/habitissimo/aws-cli.svg)
+![Docker Stars](https://img.shields.io/docker/stars/habitissimo/aws-cli.svg)
+
 A Docker image that only contains AWS cli tool, useful for Kubernetes jobs.
 
 ##  Usage
